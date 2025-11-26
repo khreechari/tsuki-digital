@@ -100,7 +100,7 @@ Enable UFW :
 
 ### STEP 1: Clone Repository
 
-    git clone https://github.com/techwise-technologies/tsuki-digital.git my-webshop
+    git clone https://github.com/khreechari/tsuki-digital.git my-webshop
     cd my-webshop/
 
 ### STEP 2: Define Environment Variables
