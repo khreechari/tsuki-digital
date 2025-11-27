@@ -1,5 +1,3 @@
-version: '3.7'
-
 services:
   caddy:
     container_name: Reverse_Proxy
